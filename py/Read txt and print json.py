@@ -1,4 +1,6 @@
 import json
+
+
 def print_as_json(x):
     for y in x:
         value = x.get(y)
@@ -9,5 +11,4 @@ def print_as_json(x):
     return
 with open("userdata.txt") as f:
     jsonf=json.load(f)
-    #y=f.read()
 print_as_json(jsonf)
