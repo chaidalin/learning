@@ -21,4 +21,3 @@ excuses = ["it's not a bug it's a feature", "it worked on my machine", "i tested
            "users will hardly notice that"]
 for x in excuses:
     print("I swear"+" "+x)
-
