@@ -1,5 +1,5 @@
 World
 Nice to meet you.
 Bye-Bye.
-
+[WCI-85] 【loginbonus】任务引导的时候碰上弹loginbonus，引导会被覆盖
 LOL
